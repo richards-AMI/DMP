@@ -1,6 +1,6 @@
 echo -off
 
-# GIT https://github.com/richards-AMI/dmp.nsh
+:GIT https://github.com/richards-AMI/dmp.nsh
 
 # START
 	echo " "
